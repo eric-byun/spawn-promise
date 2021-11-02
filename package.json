@@ -1,0 +1,16 @@
+{
+  "name": "spawn-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyung-yeon/spawn-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyung-yeon/spawn-promise/issues"
+  },
+  "homepage": "https://github.com/kyung-yeon/spawn-promise#readme"
+}
